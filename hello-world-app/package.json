@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-app",
+  "version": "1.0.0",
+  "description": "Hello world!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreibalau/electron-playground.git"
+  },
+  "author": "Andrei Balau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreibalau/electron-playground/issues"
+  },
+  "homepage": "https://github.com/andreibalau/electron-playground#readme",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
